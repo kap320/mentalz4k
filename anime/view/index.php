@@ -38,7 +38,7 @@ $data = $data->data;
     <div class="stream">
         <h3><?= $data->judul_episode ?></h3>
         <iframe src="<?= $data->stream ?>" frameborder="1" allowfullscreen></iframe>
-        <p style="padding-top: 20px; color: #ddd;">Pastikan Koneksi Internet Anda bagus untuk Streaming. Video tidak terload padahal sinyal bagus? Berarti muka Anda jelek:v Becanda ^^. Silahkan refresh Halaman Ini dan bila masih tidak terload Silahkan Screenshoot dan laporkan <a href='https://wa.me/6283870396203'>Disini</a></p>
+        <p style="padding-top: 20px; color: #ddd;">Pastikan Koneksi Internet Anda bagus untuk Streaming. Video tidak terload padahal sinyal bagus? Berarti muka Anda jelek:v Becanda ^^. Silahkan refresh Halaman Ini dan bila masih tidak terload Silahkan Screenshoot dan laporkan <a href='https://tiktok.com/@mentalz4k'>Disini</a></p>
         <div class="button">
             <div class="prev">
                 <a href="?data=<?= $datanime ?>&episode=<?= $data->prev ?>" class="prev">Episode Sebelumnya</a>
