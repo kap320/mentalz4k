@@ -43,7 +43,7 @@ $results = json_decode($restApi->request("home"));
     <div class="content">
         <h2>Streaming Anime - Subtitle Indonesia</h2>
         <p style="padding-top: 10px; color: #ddd">
-            Nikmati pengalaman menonton anime subtitle Indonesia terbaru dan terbaik di mentalz4k. Saksikan anime berkualitas HD, episode terbaru, dan koleksi lengkap. Gratis dan mudah diakses. Dibuat oleh Latip176 (Latif Harkat). Klik Judul Anime untuk Nonton!
+            Nikmati pengalaman menonton anime subtitle Indonesia terbaru dan terbaik di mentalz4k. Saksikan anime berkualitas HD, episode terbaru, dan koleksi lengkap. Gratis dan mudah diakses. Dibuat oleh Mentalz4k (rendy development!). Klik Judul Anime untuk Nonton!
         </p>
         <div class="container">
             <?php foreach($results->data as $data): ?>
