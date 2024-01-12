@@ -17,7 +17,7 @@ $results = json_decode($restApi->request("home"));
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>LatipNime - Nonton Anime subtitle Indonesia!</title>
+    <title>mentalz4k - Nonton Anime subtitle Indonesia!</title>
     <link rel="icon" href="favicon.ico">
     <link rel="stylesheet" href="/assets/css/style.css">
     <link rel="stylesheet" href="/assets/css/global.css">
@@ -27,12 +27,12 @@ $results = json_decode($restApi->request("home"));
     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2409663454221348"
      crossorigin="anonymous"></script>
     
-    <meta property="og:title" content="LatipNime - Nonton Anime subtitle Indonesia" />
+    <meta property="og:title" content="mentalz4k - Nonton Anime subtitle Indonesia" />
     <meta property="og:description" content="Nikmati pengalaman menonton anime subtitle Indonesia terbaru dan terbaik di LatipNime. Saksikan anime berkualitas HD, episode terbaru, dan koleksi lengkap. Gratis dan mudah diakses." />
-    <meta property="og:image" content="https://latipnime.biz.id/favicon.ico" />
-    <meta property="og:url" content="https://latipnime.biz.id/" />
+    <meta property="og:image" content="https://mentalz4k.vercel.app/favicon.ico" />
+    <meta property="og:url" content="https://mentalz4k.vercel.app/" />
     
-    <meta name="author" content="Latip176 (Latif Harkat)">
+    <meta name="author" content="mentalz4k (Rendy)">
     <meta name="keywords" content="streaming anime terbaik, anime subtitle Indonesia, download anime, anime HD, situs nonton anime gratis, anime ongoing, anime terpopuler">
     <meta name="description" content="Nikmati pengalaman menonton anime subtitle Indonesia terbaru dan terbaik di LatipNime. Saksikan anime berkualitas HD, episode terbaru, dan koleksi lengkap. Gratis dan mudah diakses.">
     
