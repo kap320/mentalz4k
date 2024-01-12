@@ -6,6 +6,6 @@ spl_autoload_register(function ($className) {
     if (file_exists($file)) {
         require $file;
     } else {
-        die('Terjadi Error! Hubungi Latif Harkat! <a href="https://wa.me/6283870396203">click disini</a>');
+        die('Terjadi Error! Hubungi Rendy! <a href="https://tiktok.com/@mentalz4k">click disini</a>');
     }
 });
