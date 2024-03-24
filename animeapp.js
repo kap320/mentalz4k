@@ -3,9 +3,9 @@ self.addEventListener('install', event => {
     caches.open('anime-cache').then(cache => {
       return cache.addAll([
         '/',
-        '/index.html',
+        '/index.php',
         '/favicon.ico',
-        '/script.js'
+        '/autoload.php'
       ]);
     })
   );
