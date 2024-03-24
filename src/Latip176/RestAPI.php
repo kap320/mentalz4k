@@ -9,7 +9,7 @@ class Data {
     
     public function __construct($data = null) {
         $this->data = $data;
-        $this->urlapi = "https://latipharkat-api.my.id/api/otakudesu";
+        $this->urlapi = "https://otakudesu-zeta.vercel.app/api/otakudesu";
     }
 }
 
